@@ -1,0 +1,25 @@
+span {
+    font-weight: bold;
+    font-family: "times new roman";}
+  
+  p {
+    max-width: 340px;}
+  
+  li {
+    max-width: 320px;
+    font-family: "times new roman";
+    list-style: none;
+    font-style:italic;
+    }
+  
+  body {
+    border-style: double; 
+    border-width: 8px; 
+    border-color: green; 
+    max-width: 320px;
+    align-content: center;
+    padding-top:10px;
+    padding-right: 10px;
+    padding-bottom:10px;
+    padding-left: 10px; 
+    background-color: #ffe6ff;}
